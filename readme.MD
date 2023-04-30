@@ -1,1 +1,1 @@
-# Here is basic interview questions for practice
+# Here is basic questions for practice
